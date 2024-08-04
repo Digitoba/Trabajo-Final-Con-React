@@ -1,0 +1,23 @@
+#formulario {
+    background-color: burlywood;
+    margin: 50px;
+    height: 325px;
+    display: flex;
+    flex-flow: column wrap;
+}
+
+#formulario h1 {
+    background-color: rgb(255, 230, 198);
+    padding: 10px;
+    text-align: center;
+}
+
+#formulario #formulario-cajas {
+    padding: 10px;
+}
+
+#formulario #porque-contacto {
+    width: 600px;
+    height: 150px;
+    resize: none;
+}
